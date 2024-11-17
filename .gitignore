@@ -1,3 +1,9 @@
+#Custom
+src/controllers
+src/middlewares
+src/models
+src/routes
+src/utils
 # Logs
 logs
 *.log
