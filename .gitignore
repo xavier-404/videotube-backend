@@ -1,7 +1,3 @@
-#Custom
-src/controllers
-src/middlewares
-src/routes
 # Logs
 logs
 *.log
